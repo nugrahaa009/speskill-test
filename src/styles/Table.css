@@ -1,0 +1,9 @@
+:where(.css-dev-only-do-not-override-1u0fj9).ant-table-wrapper .ant-table-thead >tr>th, :where(.css-dev-only-do-not-override-1u0fj9).ant-table-wrapper .ant-table-thead >tr>td {
+  background: #111111;
+  color: #EEEEEE;
+}
+
+:where(.css-dev-only-do-not-override-1u0fj9).ant-table-wrapper .ant-table-footer {
+  background: #111111;
+  color: #EEEEEE;
+}
